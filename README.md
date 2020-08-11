@@ -9,4 +9,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarColony)
 
 ## Time spent learning
+```
 Swift & Swift UI       169 hrs 44 mins   ████████░░░░░░░░░░░░░░░░░   29.15 % 
+```
