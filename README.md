@@ -1,10 +1,6 @@
-## About Me
-- 🏫 Currently studying Computer Science at the University of Greenwich
-- 📱 Enjoy making iOS Apps 
-
 ## Currently working on
-
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LunarColony&repo=SimpleWeatherApp)](https://github.com/LunarColony/SimpleWeatherApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LunarColony&repo=SwiftUI-Tasks-App)](https://github.com/LunarColony/SwiftUI-Tasks-App)
 
 ## My Github Stats 📊
 ![LunarColony's github stats](https://github-readme-stats.vercel.app/api?username=LunarColony&show_icons=true)
