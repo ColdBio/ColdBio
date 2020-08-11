@@ -10,5 +10,5 @@
 
 ## Time spent learning
 ```
-Swift & Swift UI       169 hrs 44 mins   ████████░░░░░░░░░░░░░░░░░   29.15 % 
+Swift & Swift UI       169 hrs 44 mins   ████████░░░░░░░░░░░░░░░░░   16.15 % 
 ```
