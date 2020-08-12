@@ -1,4 +1,4 @@
-<img width="813" alt="Screenshot 2020-08-11 at 21 50 33" src="https://user-images.githubusercontent.com/64978825/89947660-bc072000-dc1c-11ea-8c0e-097e02830bd4.png">
+<img width="813" alt="Screenshot 2020-08-11 at 21 50 33" src="https://user-images.githubusercontent.com/64978825/90020267-86f3df80-dca7-11ea-8168-7fd16b70b1f7.gif">
 
 ## 👷‍♂️ Currently working on 🛠
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LunarColony&repo=SimpleWeatherApp)](https://github.com/LunarColony/SimpleWeatherApp)
