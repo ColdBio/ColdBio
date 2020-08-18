@@ -9,7 +9,7 @@
 
 ## ⏱ Time spent learning ⏱
 ```
-Swift & Swift UI       178 hrs 39 mins   ████████░░░░░░░░░░░░░░░░░   17.65 % 
+Swift & Swift UI       188 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   18.65 % 
 ```
 ## Credit
 - The banner at the top was taken from here -> [José Augusto Hykavy](https://www.behance.net/josehykavy)
