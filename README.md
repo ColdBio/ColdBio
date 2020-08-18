@@ -12,7 +12,7 @@
 Swift & Swift UI       188 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░░░░░░░░   18.65 % 
 ```
 ## Credit
-- The banner at the top was taken from here -> [José Augusto Hykavy](https://www.behance.net/josehykavy)
+- The banner at the top was taken from here -> [Anxo Vizcaino](https://www.behance.net/anxovizcaino)
 - The Github stats you see above were created using this repository -> [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
 
 
