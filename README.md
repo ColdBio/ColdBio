@@ -7,9 +7,9 @@
 ![LunarColony's github stats](https://github-readme-stats.vercel.app/api?username=LunarColony&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarColony)
 
-## ⏱ Time spent learning ⏱
-```
-Swift & Swift UI      193 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░░░░░░░░   18.65 % 
+## 😃 Facts ✓
+
+
 ```
 ## Credit
 - The banner at the top was taken from here -> [Anxo Vizcaino](https://www.behance.net/anxovizcaino)
