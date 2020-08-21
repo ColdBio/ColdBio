@@ -10,7 +10,6 @@
 ## 😃 Facts ✓
 <img width="766" alt="Screenshot 2020-08-21 at 22 11 22" src="https://user-images.githubusercontent.com/64978825/90935914-2594e480-e3fc-11ea-8fd3-85a567242df5.png">
 
-```
 ## Credit
 - The banner at the top was taken from here -> [Anxo Vizcaino](https://www.behance.net/anxovizcaino)
 - The Github stats you see above were created using this repository -> [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
