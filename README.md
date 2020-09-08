@@ -2,7 +2,6 @@
 
 
 ## 😃 Facts ✓
-- Started learning Swift and SwiftUI around May of 2020
 <img width="783" alt="Screenshot 2020-08-24 at 20 34 22" src="https://user-images.githubusercontent.com/64978825/91087994-3be3b000-e649-11ea-87b7-997475a8b6d8.png">
 
 ## 👷‍♂️ Currently working on 🛠
