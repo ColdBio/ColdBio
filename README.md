@@ -11,5 +11,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarColony)
 
 ## Credit
-- The banner at the top was taken from here -> [Anxo Vizcaino](https://www.behance.net/anxovizcaino)
 - The Github stats you see above were created using this repository -> [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
