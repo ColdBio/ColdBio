@@ -8,7 +8,8 @@
 
 ## 📊 My Github Stats 📊
 ![LunarColony's github stats](https://github-readme-stats.vercel.app/api?username=LunarColony&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarColony)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarColony&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Credit
 - The Github stats you see above were created using this repository -> [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
