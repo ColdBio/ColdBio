@@ -7,7 +7,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LunarColony&repo=SwiftUI-Tasks-App)](https://github.com/LunarColony/SwiftUI-Tasks-App)
 
 ## 📊 My Github Stats 📊
-![LunarColony's github stats](https://github-readme-stats.vercel.app/api?username=LunarColony&show_icons=true)
+![LunarColony's github stats](https://github-readme-stats.vercel.app/api?username=LunarColony&show_icons=false)
 
 ## Credit
 - The Github stats you see above were created using this repository -> [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
