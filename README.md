@@ -9,6 +9,8 @@
 ## 📊 My Github Stats 📊
 ![LunarColony's github stats](https://github-readme-stats.vercel.app/api?username=LunarColony&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarColony&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LunarColony)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Credit
